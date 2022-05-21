@@ -4,11 +4,7 @@ import ReactDOM from 'react-dom'
 export default function Footer() {
     <div>
         <div className='footer--col'>
-            <ul>
-                <li><a href=''></a></li>
-                <li><a href=''></a></li>
-                <li><a href=''></a></li>
-            </ul>
+                <h2> With Love by Fleeklawi@gmail.com</h2>
         </div>
         <div className='footer--col'>
             <ul>
@@ -19,7 +15,7 @@ export default function Footer() {
             </ul>
         </div>
         <div className='footer--col'>
-            <span>SEND US A MESSAGE: <input type={text} /><button>Send</button></span>
+            <span>SEND US A MESSAGE: <input type='text' /><button>Send</button></span>
         </div>
     </div>
 }

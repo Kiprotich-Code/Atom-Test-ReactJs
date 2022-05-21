@@ -6,9 +6,9 @@ export default function Header() {
         <div>GUIDE INTO THE DARKWEB - UI</div>
         <nav>
             <ul>
-                <li><a href='#'>Home</a></li>
-                <li><a href='#'>About</a></li>
-                <li><a href='#'>Join Us</a></li>
+                <li>Home</li>
+                <li>About</li>
+                <li>Join Us</li>
             </ul>
         </nav>
 

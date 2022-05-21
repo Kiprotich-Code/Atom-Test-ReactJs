@@ -1,5 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './Header';
+import Hero from './Hero'
+import Join from './Join';
+import Footer from './Footer';
 
 function App() {
   return (
